@@ -34,11 +34,6 @@ def transforma_dados(dados: pd.DataFrame) -> DataFrame[ContratosDadosDengue]:
  
         dados_filtrados = dados[colunas_relevantes]
 
-        df["dt_nasc"] = pd.to_datetime(df["dt_nasc"], format="%Y-%m-%d", errors='coerce')
-        df["dt_notific"] = pd.to_datetime(df["dt_notific"], format="%Y-%m-%d", errors='coerce')
-        df["dt_sin_pri"] = pd.to_datetime(df["dt_sin_pri"], format="%Y-%m-%d", errors='coerce')
-
-                                                                                
         # Validação dos dados após transformação
         dados_validados = ContratosDadosDengue.validate(dados_filtrados)
         print("Dados transformados e validados com sucesso.")

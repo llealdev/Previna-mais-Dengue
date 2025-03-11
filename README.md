@@ -95,5 +95,5 @@ Distribuído sob a Licença MIT. Consulte `LICENSE.txt` para mais informações.
 |---|---|
 | **Marcos Vinicius**  | **Matheus Leal** |
 | *Analista de Dados e Data Viz* | *Engenheiro de Dados* |
-| [GitHub](https://github.com/marcos-anjos) • [LinkedIn](https://www.linkedin.com/in/marcosvmanjos/) | [GitHub](https://github.com/llealdev) • [LinkedIn](https://www.linkedin.com/in/seu_usuario2) |
+| [GitHub](https://github.com/marcos-anjos) • [LinkedIn](https://www.linkedin.com/in/marcosvmanjos/) | [GitHub](https://github.com/llealdev) • [LinkedIn](https://www.linkedin.com/in/llealdev/) |
 
